@@ -95,23 +95,23 @@ My interests include Artificial Intelligence, Machine Learning, Deep Learning, C
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrimathiravi07\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrimathiravi07\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimathiravi07\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrimathiravi07\&theme=tokyo-night)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&row=1\&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=shrimathiravi07\&theme=tokyonight\&row=1\&column=7)
 
 ---
 

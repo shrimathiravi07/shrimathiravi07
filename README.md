@@ -109,11 +109,11 @@ My interests include Artificial Intelligence, Machine Learning, Deep Learning, C
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shrimathiravi07\&theme=tokyonight\&row=1\&column=7)
 
----
+--->
 
 ## ⚡ Fun Fact
 

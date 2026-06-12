@@ -8,7 +8,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Data+Scientist;Computer+Vision+Developer;Backend+Developer;Building+Intelligent+Systems;Turning+Data+Into+Insights" />
 </p>
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<table>
+<tr>
+<td width="65%">
 
 ## 👩‍💻 About Me
 
@@ -16,8 +19,15 @@ I am a passionate AI/ML Engineer and Data Science enthusiast with expertise in C
 
 My interests include Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, Data Analytics, and scalable backend development. I continuously explore emerging technologies and build innovative solutions that create real-world impact through data and intelligent automation.
 
----
+</td>
 
+<td width="35%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+</td>
+</tr>
+</table>
+
+---
 
 
 ## 🚀 What I'm Working On

@@ -1,12 +1,16 @@
 # Hi 👋, I'M SHRIMATHI ✨
 
+
 <h3 align="center">
-🚀 AI/ML Engineer | 📊 Data Scientist | 👁️ Computer Vision Developer | 🐍 Python Developer | ⚙️ Backend Developer
+📊 Aspiring Data Scientist | 🤖 AI & ML Enthusiast | 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Data+Scientist;Computer+Vision+Developer;Backend+Developer;Building+Intelligent+Systems;Turning+Data+Into+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+About+Data+Science;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Computer+Vision+Projects;Always+Curious+To+Learn" />
 </p>
+
+
+
 
 
 <table>
@@ -30,18 +34,6 @@ My interests include Artificial Intelligence, Machine Learning, Deep Learning, C
 ---
 
 
-## 🚀 What I'm Working On
-
-* 🤖 AI & Machine Learning Projects
-* 👁️ Computer Vision Applications
-* 📊 Data Science & Analytics Solutions
-* ⚙️ Backend Development with Flask & Django
-* 🗄️ Database Design & Management
-* 🌱 Learning Generative AI & LLMs
-* ☁️ Exploring MLOps & AI Deployment
-
-
----
 # 🚀 Technical Expertise
 
 ### 💻 Programming Languages

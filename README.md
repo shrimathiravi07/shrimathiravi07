@@ -94,44 +94,26 @@ My interests include Artificial Intelligence, Machine Learning, Deep Learning, C
 ---
 
 
-
 ## 📈 GitHub Statistics
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shrimathiravi07&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=shrimathiravi07&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=shrimathiravi07&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimathiravi07&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Contributions
 
 <p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shrimathiravi07&theme=tokyo-night"
-    alt="Activity Graph"
-    width="95%"
-  />
-
+  <a href="https://github.com/shrimathiravi07">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shrimathiravi07&theme=tokyo-night&hide_border=true"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
 </p>
 
 ---
